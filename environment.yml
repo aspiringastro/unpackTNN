@@ -9,6 +9,7 @@ dependencies:
 - numpy
 - scipy
 - pandas
+- pytorch
 # - geopandas>=0.11.0
 
   # interactive python
