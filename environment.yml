@@ -285,4 +285,6 @@ dependencies:
     - filelock==3.9.0
     - pycryptodomex==3.16.0
     - regex==2022.10.31
+    - sentencepiece==0.1.97
     - tiktoken==0.1.2
+
